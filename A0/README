@@ -1,0 +1,14 @@
+sys info:
+        32GB ram allocated
+        16 tasks per nodes
+        n = INT32_MAX
+        compiled with gcc 7.3
+
+average of 48 runs:
+        t1 --> 3.19s
+        tp --> 1.42s
+        sp --> 2.31
+
+        min t1 --> 2.31s
+        min tp --> 0.85s
+        sp of mins --> 2.72

@@ -1,0 +1,8 @@
+sys info:
+        compiled with openMPI 3.0.3 & gcc 7
+        run on 16 nodes, 1 task  / node
+        24GB memory allocated
+        infiniband constraint used in slurm cfg
+misc:
+        CCR stdout file was tagged with '_EX' so I could keep track of 'exclusive' runs.
+        cp'd the file without the tag--contents are the same.
